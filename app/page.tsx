@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
     return (
-        <div className="w-full h-screen max-w-4xl mx-auto bg-white pt-5">
+        <div className="w-full h-screen max-w-4xl mx-auto bg-white pt-5 px-5">
             <header>
                 <h1 className="scroll-m-20 text-center text-4xl font-extrabold tracking-tight text-balance">Welcome to suwako.me!</h1>
             </header>
