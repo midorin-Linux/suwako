@@ -131,7 +131,7 @@ export default function Home() {
                     </div>
                 </div>
                 <section className={`bg-[#5a5359]`}>
-                    <article className={`relative mx-auto flex w-full min-h-120 flex-col justify-between overflow-hidden pl-4 pt-8 sm:min-h-140 sm:pl-8 sm:pt-10 lg:min-h-0 lg:flex-row lg:items-center lg:gap-10 lg:pl-12`}>
+                    <article className={`relative mx-auto flex w-full min-h-120 flex-col justify-between overflow-hidden px-4 pt-8 sm:px-0 sm:min-h-140 sm:pl-8 sm:pt-10 lg:min-h-0 lg:flex-row lg:items-center lg:gap-10 lg:pl-12`}>
                         <div className={`absolute inset-0 lg:hidden`}>
                             <Image src={`/waterfall.png`} alt={`滝`} fill className={`object-cover`} sizes="(min-width: 640px) 100vw, 100vw" />
                             <div className={`absolute inset-0 bg-[#2b1f2c]/60`} />
