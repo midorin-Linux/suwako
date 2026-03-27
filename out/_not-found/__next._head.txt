@@ -1,8 +1,6 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"ViewportBoundary"]
-4:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"MetadataBoundary"]
-5:"$Sreact.suspense"
-7:I[27201,["/_next/static/chunks/42879de7b8087bc9.js"],"IconMark"]
-0:{"buildId":"fpYPqjwCDl1uITKMsuMAL","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
-3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"suwako.me"}],["$","meta","1",{"name":"description","content":"For suwako fans."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.9b9f7308.ico","sizes":"128x128","type":"image/x-icon"}],["$","$L7","3",{}]]
+2:I[97367,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"守矢神社"}],["$","meta","1",{"name":"description","content":"諏訪子推しによる洩矢諏訪子のファンサイト"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dV4Os_UyqntONr8UZA_HQ"}
