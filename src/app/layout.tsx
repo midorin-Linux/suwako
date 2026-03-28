@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Header from "@/components/header";
+import Footer from "@/components/footer";
 
 export const metadata: Metadata = {
   title: "守矢神社",
@@ -16,7 +18,11 @@ export default function RootLayout({
       lang="ja"
       className={`h-full antialiased`}
     >
-      <body className="scroll-smooth">{children}</body>
+      <body className="scroll-smooth">
+        <Header />
+        <main>{children}</main>
+        <Footer />
+      </body>
     </html>
   );
 }
